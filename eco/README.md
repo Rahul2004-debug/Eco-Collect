@@ -65,5 +65,5 @@ eco-collect/
 - `PATCH /api/pickup/:id/status` - Update pickup request status
 
 
-Your Name - Rahul
-Mail-rahulhadpad05@gmail.com
+Rahul
+rahulhadpad05@gmail.com
